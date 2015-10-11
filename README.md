@@ -1,4 +1,5 @@
 README
+Will Chan
 
 1.5 hours to complete.
 All required tip functionality included.
